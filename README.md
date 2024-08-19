@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 📖 I am a junior-year CS student at FAST NUCES, Islamabad.
+- 💻 I am proficient in C++ and am currently learning Python, Assembly and SQL.
+- 💡 I am skilled in digital circuit design with breadboards and Proteus Design Suite.
+- 🤓 Pun fact: My tagline is a pun on "scikit-learn", a machine learning library in Python.
 <!--
 **parhlesaadu/parhlesaadu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
