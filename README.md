@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 📖 I am a junior-year CS student at FAST NUCES, Islamabad.
+- 📖 I am a junior-year CS student at FAST NUCES, Islamabad, where I am working as a Lab Demonstrator for the Data Structures course.
 - 🎓 I completed my A Levels in Math, Chemistry, and Physics from Beaconhouse Margalla Campus in 2022.
 - 💻 I am proficient in C++ and am currently learning SQL, Python, Assembly, and Bash.
 - 💡 I am skilled in digital circuit design with breadboards and Proteus Design Suite.
