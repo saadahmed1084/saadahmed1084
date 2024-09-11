@@ -1,4 +1,4 @@
-## Hi there 👋
+## About Me
 
 - 📖 I am a junior-year CS student at FAST NUCES, where I am working as a Lab Demonstrator for the Data Structures course.
 - 🎓 I completed my A Levels in Math, Chemistry, and Physics from Beaconhouse Margalla Campus in 2022.
