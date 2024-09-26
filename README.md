@@ -4,7 +4,7 @@
 - 🎓 I completed my A Levels in Math, Chemistry, and Physics from Beaconhouse Margalla Campus in 2022.
 - 💻 I am proficient in C++ and am currently learning C/C#, SQL, Python, Assembly, and Bash.
 - 💡 I am skilled in digital circuit design with breadboards and Proteus Design Suite.
-- 📷 My profile pic is from PyCon Pakistan 2024, held at LUMS.
+- 📷 My profile pic is from PyCon 2024, held at Lahore University of Management Sciences.
 <!--
 **parhlesaadu/parhlesaadu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
