@@ -5,7 +5,6 @@
 - 💻 I am proficient in C++ and am currently learning C/C#, SQL, Python, Assembly, and Bash.
 - 💡 I am skilled in designing digital circuits on breadboards and in Proteus Design Suite.
 - 🔎 I offer LinkedIn profile review and optimisation services on a freelance basis.
-- 📷 My profile pic is from PyCon 2024, held at Lahore University of Management Sciences.
 <!--
 **parhlesaadu/parhlesaadu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
