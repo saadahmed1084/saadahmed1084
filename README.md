@@ -4,7 +4,7 @@
 - 🎓 I completed my A Levels in Math, Chemistry, and Physics from Beaconhouse Margalla Campus in 2022.
 - 💻 I am proficient in C++ and am currently learning C/C#, SQL, Python, Assembly, and Bash.
 - 💡 I am skilled in designing digital circuits on breadboards and in Proteus Design Suite.
-- 🔎 I offer LinkedIn profile review and optimisation services on a freelance basis.
+- 🔎 I provide LinkedIn review and optimisation services on a freelance basis.
 <!--
 **parhlesaadu/parhlesaadu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
