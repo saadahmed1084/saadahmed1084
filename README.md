@@ -1,6 +1,6 @@
 ## About Me
 
-- 📖 I am a junior-year CS student at FAST NUCES, where I am working as a Lab Demonstrator for the Data Structures course.
+- 📖 I am a junior-year CS student at FAST NUCES, where I am working as a Lab Teaching Assistant for the Data Structures course.
 - 🎓 I completed my A Levels in Math, Chemistry, and Physics from Beaconhouse Margalla Campus in 2022.
 - 💻 I am proficient in C++ and am currently learning C/C#, SQL, Python, Assembly, and Bash.
 - 💡 I am skilled in designing digital circuits on breadboards and in Proteus Design Suite.
