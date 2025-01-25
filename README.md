@@ -2,7 +2,7 @@
 
 - 📖 I am a junior-year CS student at FAST NUCES, where I have worked as a Lab Teaching Assistant for the Data Structures course.
 - 🎓 I completed my A Levels in Mathematics, Chemistry, and Physics from Beaconhouse Margalla Campus in 2022.
-- 💻 I am proficient in C++, HTML, and CSS. I am currently learning C/C#, SQL, Python, Assembly, and Bash.
+- 💻 I am skilled in C++, HTML, and CSS. I am currently learning C/C#, SQL, Python, Assembly, and Bash.
 - 💡 I am skilled in designing digital circuits with ICs and in Proteus Design Suite.
 - 🌱 I have a strong interest in community service and sustainable development.
 - 🔎 I provide LinkedIn profile review and optimisation services on [Upwork](https://www.upwork.com/services/product/writing-translation-a-fully-enhanced-and-optimised-linkedin-profile-1791562372283469518?ref=project_share).
