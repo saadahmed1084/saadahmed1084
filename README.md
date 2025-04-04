@@ -6,8 +6,7 @@
 - 💡 I am skilled in designing digital circuits with ICs and in Proteus Design Suite.
 - 🌱 I have a strong interest in community service and sustainable development.
 - 🔎 I provide LinkedIn profile review and optimisation services on [Upwork](https://www.upwork.com/services/product/writing-translation-a-fully-enhanced-and-optimised-linkedin-profile-1791562372283469518?ref=project_share).
-- 🎧 I listen to [this playlist](https://open.spotify.com/playlist/4FfemRFMWR8W15s7HhFssM?si=80f2269aa2bc40d4) while writing code.
-- 🧠 I occasionally post bڑainڑot on GitHub.
+- 🎧 I listen to [this playlist](https://open.spotify.com/playlist/4FfemRFMWR8W15s7HhFssM?si=80f2269aa2bc40d4) while writing my code.
 <!--
 **parhlesaadu/parhlesaadu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
