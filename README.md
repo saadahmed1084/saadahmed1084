@@ -8,7 +8,7 @@
 - 🔎 I provide LinkedIn profile review and optimisation services on [Upwork](https://www.upwork.com/services/product/writing-translation-a-fully-enhanced-and-optimised-linkedin-profile-1791562372283469518?ref=project_share).
 - 🎧 I listen to [this playlist](https://open.spotify.com/playlist/4FfemRFMWR8W15s7HhFssM?si=80f2269aa2bc40d4) while writing my code.
 
-<p><img align="center" src=""https://github-readme-stats.vercel.app/api/top-langs?username=parhlesaadu&show_icons=true&locale=en&layout=compact"></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=parhlesaadu&show_icons=true&locale=en&layout=compact"></p>
 <!--
 **parhlesaadu/parhlesaadu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
